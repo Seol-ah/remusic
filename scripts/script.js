@@ -392,6 +392,7 @@ new Vue({
         artist: "Raon Lee",
         cover: "cover/64.jpg",
         source: "audio/64.Say Meow MeowCover by Raon Lee.mp3"
+      },
 	    {
         name: "Coming soon",
         artist: "업데이트 예정",
