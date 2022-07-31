@@ -376,40 +376,27 @@ new Vue({
         source: "audio/61.Dave Rodgers - Deja Vu.mp3"
       },
 	    {
-        name: "낭만 고양이",
-        artist: "체리필터",
-        cover: "cover/62.png",
-        source: "audio/62.Nang Man Go Yang Ee.mp3"
-      },
-	    {
         name: "사랑에 빠지다",
         artist: "다비치(davichi)",
-        cover: "cover/63.jpg",
-        source: "audio/63.davichi-falling-in-love.mp3"
+        cover: "cover/62.jpg",
+        source: "audio/62.davichi-falling-in-love.mp3"
       },
 	    {
         name: "이터널 블레이즈",
         artist: "미즈키 나나",
-        cover: "cover/64.jpg",
-        source: "audio/64.ETERNAL BLAZE.mp3"
+        cover: "cover/63.jpg",
+        source: "audio/63.ETERNAL BLAZE.mp3"
       },
 	    {
         name: "고양이 소리를 따라해보자",
         artist: "Raon Lee",
-        cover: "cover/65.jpg",
-        source: "audio/65.Say Meow MeowCover by Raon Lee.mp3"
-      },
-	    {
-        name: "터보 ㅡ 검은고양이 네로",
-        artist: "터보(TURBO)",
-        cover: "cover/66.jpg",
-        source: "audio/66.검은 고양이 네로.mp3"
-      },
+        cover: "cover/64.jpg",
+        source: "audio/64.Say Meow MeowCover by Raon Lee.mp3"
 	    {
         name: "Coming soon",
         artist: "업데이트 예정",
-        cover: "cover/67.jpg",
-        source: "audio/67.Coming soon.mp3"
+        cover: "cover/65.jpg",
+        source: "audio/65.Coming soon.mp3"
       },
       ],
       currentTrack: null,
