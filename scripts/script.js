@@ -394,10 +394,58 @@ new Vue({
         source: "audio/64.Say Meow MeowCover by Raon Lee.mp3"
       },
 	    {
-        name: "Coming soon",
-        artist: "업데이트 예정",
+        name: "RE _ WIND",
+        artist: "이세계 아이돌",
         cover: "cover/65.jpg",
-        source: "audio/65.Coming soon.mp3"
+        source: "audio/65.RE _ WIND.mp3"
+      },
+	      {
+        name: "겨울봄",
+        artist: "이세계 아이돌",
+        cover: "cover/66.jpg",
+        source: "audio/66.Winter Spring.mp3"
+      },
+	      {
+        name: "이슈칸 커뮤니케이션",
+        artist: "ちょろゴンず",
+        cover: "cover/67.jpg",
+        source: "audio/67.イシュカン・コミュニケーション.mp3"
+      },
+	      {
+        name: "푸른 하늘의 랩소디 - 슈퍼 곤즈 ver",
+        artist: "スーパーちょろゴンず",
+        cover: "cover/68.jpg",
+        source: "audio/68.青空のラプソディ - スーパーちょろゴンず ver.mp3"
+      },
+	      {
+        name: "시작 세츠나",
+        artist: "왁스 학원 중등부 1년 3조",
+        cover: "cover/69.jpg",
+        source: "audio/69.はじまりのセツナ.mp3"
+      },
+	      {
+        name: "아스트로소녀",
+        artist: "구주쿠 사명, Snail's House",
+        cover: "cover/70.jpg",
+        source: "audio/70.Astrogirl.mp3"
+      },
+	      {
+        name: "즐거운 MEOW날!!",
+        artist: "토키 노 소라",
+        cover: "cover/71.jpg",
+        source: "audio/71.Happy Meowthday!!.mp3"
+      },
+	      {
+        name: "너를 느끼고, 너를 치유해",
+        artist: "힐러걸스",
+        cover: "cover/72.jpg",
+        source: "audio/72.Feel You, Heal You.mp3"
+      },
+	      {
+        name: "Coming Soon",
+        artist: "업데이트 예정입니다..",
+        cover: "cover/73.jpg",
+        source: "audio/73.Coming soon.mp3"
       },
       ],
       currentTrack: null,
