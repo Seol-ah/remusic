@@ -466,7 +466,7 @@ new Vue({
         source: "audio/76.TOMORROW.mp3"
       },
 	      {
-        name: "반영하다",
+        name: "REFLECT",
         artist: "가우르 구라",
         cover: "cover/77.jpg",
         source: "audio/77.REFLECT.mp3"
