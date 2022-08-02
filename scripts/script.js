@@ -484,10 +484,16 @@ new Vue({
         source: "audio/79.Dragon Night.mp3"
       },
 	      {
+        name: "팝핀 캔디 ☆ 발열!",
+        artist: "키노시타, 우나 오토마치, 린 카가미네",
+        cover: "cover/80.jpg",
+        source: "audio/80.ポッピンキャンディ☆フィーバー!.mp3"
+      },
+	      {
         name: "Coming Soon",
         artist: "업데이트 예정입니다..",
-        cover: "cover/80.jpg",
-        source: "audio/80.Coming soon.mp3"
+        cover: "cover/81.jpg",
+        source: "audio/81.Coming soon.mp3"
       },
       ],
       currentTrack: null,
