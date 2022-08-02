@@ -407,13 +407,13 @@ new Vue({
       },
 	      {
         name: "이슈칸 커뮤니케이션",
-        artist: "ちょろゴンず",
+        artist: "쪼로곤즈",
         cover: "cover/67.jpg",
         source: "audio/67.イシュカン・コミュニケーション.mp3"
       },
 	      {
         name: "푸른 하늘의 랩소디 - 슈퍼 곤즈 ver",
-        artist: "スーパーちょろゴンず",
+        artist: "슈퍼 쪼로곤즈",
         cover: "cover/68.jpg",
         source: "audio/68.青空のラプソディ - スーパーちょろゴンず ver.mp3"
       },
@@ -442,10 +442,52 @@ new Vue({
         source: "audio/72.Feel You, Heal You.mp3"
       },
 	      {
+        name: "あすいろ ClearSky",
+        artist: "홀로라이브 아이돌 프로젝트",
+        cover: "cover/73.jpg",
+        source: "audio/73.あすいろClearSky.mp3"
+      },
+	      {
+        name: "Say! 황팔레!",
+        artist: "시라카미 후부키",
+        cover: "cover/74.jpg",
+        source: "audio/74.Say!ファンファーレ!.mp3"
+      },
+	      {
+        name: "환상적인 몽상가",
+        artist: "마치코",
+        cover: "cover/75.jpg",
+        source: "audio/75.fantastic dreamer.mp3"
+      },
+	      {
+        name: "내일",
+        artist: "마치코",
+        cover: "cover/76.jpg",
+        source: "audio/76.TOMORROW.mp3"
+      },
+	      {
+        name: "반영하다",
+        artist: "가우르 구라",
+        cover: "cover/77.jpg",
+        source: "audio/77.REFLECT.mp3"
+      },
+	      {
+        name: "비밀 사랑 코코로",
+        artist: "HoneyWorks와 함께하는 치코",
+        cover: "cover/78.jpg",
+        source: "audio/78.ヒミツ恋ゴコロ.mp3"
+      },
+	      {
+        name: "드래곤 나이트",
+        artist: "헬로 해피 월드!",
+        cover: "cover/79.jpg",
+        source: "audio/79.Dragon Night.mp3"
+      },
+	      {
         name: "Coming Soon",
         artist: "업데이트 예정입니다..",
-        cover: "cover/73.jpg",
-        source: "audio/73.Coming soon.mp3"
+        cover: "cover/80.jpg",
+        source: "audio/80.Coming soon.mp3"
       },
       ],
       currentTrack: null,
