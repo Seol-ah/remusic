@@ -490,7 +490,7 @@ new Vue({
         source: "audio/80.ポッピンキャンディ☆フィーバー!.mp3"
       },
 	      {
-        name: "비 주문 Kobo Kanaeru ver",
+        name: "비 주문 Original ver",
         artist: "Kobo Kanaeru",
         cover: "cover/81.jpg",
         source: "audio/81.Mantra Hujan.mp3"
