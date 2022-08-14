@@ -545,7 +545,7 @@ new Vue({
       },
 	      {
         name: "RE:LATION",
-        artist: "에밀리아(CV:타카하시 리의), 렘(CV:미나세 이노리), 램(CV:무라카와 리의)",
+        artist: "에밀리아(CV:타카하시 리의), 렘(CV:미나세 이노리), 람(CV:무라카와 리의)",
         cover: "cover/90.jpg",
         source: "audio/90.Re_lation.mp3"
       },
