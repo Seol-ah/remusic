@@ -261,7 +261,7 @@ body {
   height: 6px;
   width: 100%;
   cursor: pointer;
-  background-color: #d0d8e6;
+  background-color: #ffffff;
   display: inline-block;
   border-radius: 10px;
 }
@@ -269,7 +269,7 @@ body {
 .progress__current {
   height: inherit;
   width: 0%;
-  background-color: #a3b3ce;
+  background-color: #ffb6c1;
   border-radius: 10px;
 }
 
