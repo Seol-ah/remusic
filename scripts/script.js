@@ -490,10 +490,70 @@ new Vue({
         source: "audio/80.ポッピンキャンディ☆フィーバー!.mp3"
       },
 	      {
+        name: "비 주문 Kobo Kanaeru ver",
+        artist: "Kobo Kanaeru",
+        cover: "cover/81.jpg",
+        source: "audio/81.Mantra Hujan.mp3"
+      },
+	      {
+        name: "비 주문 Rakakun- ver",
+        artist: "Rakakun-",
+        cover: "cover/82.jpg",
+        source: "audio/82.Mantra Hujan.mp3"
+      },
+	      {
+        name: "고백 번지 점프",
+        artist: "halca",
+        cover: "cover/83.jpg",
+        source: "audio/83.告白バンジージャンプ.mp3"
+      },
+	      {
+        name: "말할 수 없다",
+        artist: "MIMiNARI, asmi",
+        cover: "cover/84.jpg",
+        source: "audio/84.言えない.mp3"
+      },
+	      {
+        name: "스텔라 스텔라",
+        artist: "Hoshimachi Suisei",
+        cover: "cover/85.jpg",
+        source: "audio/85.Stellar Stellar.mp3"
+      },
+	      {
+        name: "Fleur",
+        artist: "雪花ラミィ",
+        cover: "cover/86.jpg",
+        source: "audio/86.Fleur.mp3"
+      },
+	      {
+        name: "NEXT COLOR PLANET",
+        artist: "Hoshimachi Suisei",
+        cover: "cover/87.jpg",
+        source: "audio/87.NEXT COLOR PLANET.mp3"
+      },
+	      {
+        name: "스타가디언 2022",
+        artist: "리그 오브 레전드",
+        cover: "cover/88.jpg",
+        source: "audio/88.Star Guardian 2022 - Official Orchestral Theme.mp3"
+      },
+	      {
+        name: "여행 의 계절 -Eng ver-",
+        artist: "Mari Usagi, Xpresso",
+        cover: "cover/89.jpg",
+        source: "audio/89.Tabidachi no Kisetsu - English Version - Lofi with Vocals (Princess Connect! Re_ Dive Season 2 Endin.mp3"
+      },
+	      {
+        name: "RE:LATION",
+        artist: "에밀리아(CV:타카하시 리의), 렘(CV:미나세 이노리), 램(CV:무라카와 리의)",
+        cover: "cover/90.jpg",
+        source: "audio/90.Re_lation.mp3"
+      },
+	      {
         name: "Coming Soon",
         artist: "업데이트 예정입니다..",
-        cover: "cover/81.jpg",
-        source: "audio/81.Coming soon.mp3"
+        cover: "cover/91.jpg",
+        source: "audio/91.Coming soon.mp3"
       },
       ],
       currentTrack: null,
