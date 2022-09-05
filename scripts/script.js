@@ -557,7 +557,7 @@ new Vue({
       },
 	      {
         name: "Coming soon",
-        artist: "Sayuri",
+        artist: "업데이트 예정입니다..",
         cover: "cover/92.jpg",
         source: "audio/92.Coming soon.mp3"
       },
