@@ -550,10 +550,16 @@ new Vue({
         source: "audio/90.Re_lation.mp3"
       },
 	      {
-        name: "Coming Soon",
-        artist: "업데이트 예정입니다..",
+        name: "花の塔",
+        artist: "Sayuri",
         cover: "cover/91.jpg",
-        source: "audio/91.Coming soon.mp3"
+        source: "audio/91.花の塔.mp3"
+      },
+	      {
+        name: "Coming soon",
+        artist: "Sayuri",
+        cover: "cover/92.jpg",
+        source: "audio/92.Coming soon.mp3"
       },
       ],
       currentTrack: null,
