@@ -556,6 +556,18 @@ new Vue({
         source: "audio/91.花の塔.mp3"
       },
 	      {
+        name: "OVER",
+        artist: "ISEGYE IDOL",
+        cover: "cover/93.jpg",
+        source: "audio/93.이세계 아이돌 OVER.mp3"
+      },
+	      {
+        name: "KIDDING",
+        artist: "ISEGYE IDOL",
+        cover: "cover/94.jpg",
+        source: "audio/94.KIDDING.mp3"
+      },
+	      {
         name: "Coming soon",
         artist: "업데이트 예정입니다..",
         cover: "cover/92.jpg",
